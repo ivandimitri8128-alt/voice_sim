@@ -1,0 +1,32 @@
+# Mahalini - Bohongi Hati (verse + awal chorus, potongan ~60 detik)
+# Kunci Eb mayor, 67 BPM, 4/4. Melodi disusun di sekitar akor asli (Fm Bb Eb C ... Gm C F Fm).
+# Lirik asli; ejaan disesuaikan mesin (gai, dah, ang).
+
+tempo 67
+meter 4
+pickup 1.5
+barreset 1
+
+# --- Verse
+F4:0.5=Aku Ab4:0.5=ter Bb4:1=sik Bb4:1.5=sa
+R:0.5
+G4:0.5=Me Ab4:0.5=li Bb4:1=hat Bb4:0.5=se Ab4:0.5=mu Eb4:1=a G4:1=nya Bb4:0.5=be Eb4:1.5=ruh Ab4:1=bah
+R:0.5
+G4:0.5=Meng C5:1=nga Bb4:2=pa
+R:0.5
+F4:0.5=Kau Ab4:0.5=tak Bb4:1=mau Bb4:1=ta Bb4:1=hu
+R:0.5
+Bb4:0.5=Ba G4:0.5=gai G4:0.5=ma Eb4:0.5=na F4:1=ha Ab4:0.5=ti Bb4:1=i G4:1=ni C5:0.5=tan G4:0.5=pa Bb4:1=mu
+R:0.5
+F4:1=Cin Ab4:0.5=ta Bb4:2=mu
+R:0.5
+G4:0.5=Oh Bb4:0.5=di Ab4:0.5=ma G4:0.5=na F4:1=a Eb4:0.5=ku G4:1=bi G4:0.5=sa Bb4:1=te Ab4:0.5=mu G4:0.5=i Ab4:0.5=di Bb4:1=ri Bb4:1=mu
+R:0.5
+Ab4:0.5=Yang Bb4:0.5=du Bb4:1=lu F4:1=cin Ab4:0.5=ta G4:0.5=dan Eb4:1=ang G4:0.5=gap F4:0.5=a Bb4:1=ku Ab4:1=a Eb4:1.5=da
+R:0.5
+
+# --- Chorus
+G4:0.5=Ji Bb4:0.5=ka C5:1=Kau D5:0.5=min Eb5:1=ta C5:0.5=a Bb4:1=ku G4:0.5=men C5:0.5=ja Bb4:1=uh
+R:0.5
+R:0.5
+Eb5:0.5=Hi D5:0.5=lang C5:0.5=da Bb4:0.5=ri C5:1=se Bb4:0.5=lu Ab4:1=ruh Ab4:0.5=me Bb4:0.5=mo C5:1=ri Bb4:0.5=in C5:0.5=dah Bb4:1=mu

@@ -1,0 +1,33 @@
+# Baby - Justin Bieber ft. Ludacris (intro + pre-chorus + chorus, ~60 detik)
+# Kunci Eb mayor, 65 BPM. Lirik asli; ejaan disesuaikan mesin (yu, bi, frens, theres).
+# Regi: intro rendah Bb3..Ab3, hook chorus Eb4..Bb4, tag resolusi turun.
+
+tempo 65
+meter 4
+pickup 1.5
+barreset 1
+
+# --- Intro
+Bb3:0.5=Yu Bb3:0.5=know Bb3:0.5=yu Eb4:1=love Bb3:0.5=me Bb3:0.75=I Bb3:0.25=know Ab3:0.5=yu G3:0.5=care
+Bb3:0.5=Just Bb3:0.5=shout C4:0.5=whe Eb4:0.5=ne Eb4:0.5=ver C4:0.5=and Bb3:0.5=I Bb3:0.25=will G3:0.25=be Ab3:0.5=there
+Eb4:0.5=Yu Eb4:0.5=want F4:0.5=my Eb4:1=love Eb4:0.5=yu Eb4:0.5=want D4:0.5=my
+Bb3:0.5=And_we Bb3:0.5=will C4:0.5=ne Eb4:0.5=ver Eb4:0.5=e Eb4:0.5=ver F4:0.5=be Eb4:0.5=a Eb4:0.5=part
+R:0.5
+
+# --- Pre-chorus
+G3:0.5=Are G3:0.5=we Ab3:0.75=an G3:0.5=i_tem G3:0.5=Girl F3:0.5=quit F3:0.75=play F3:0.25=ing
+G3:0.5=Were Bb3:0.5=just Bb3:0.5=frens G3:0.5=what G3:0.5=are G3:0.5=yu F3:0.5=say F3:0.5=ing
+Ab3:0.5=Say Ab3:0.5=theres Bb3:0.5=a Bb3:0.5=no Bb3:0.5=ther Ab3:0.5=and Bb3:0.5=looked G3:0.5=right F3:0.5=in F3:0.5=my G3:0.5=eyes
+G3:0.5=My F3:0.5=first F3:0.5=love G3:0.5=broke Ab3:0.5=my G3:0.5=heart F3:0.5=for_the F3:0.5=first F3:0.5=time
+R:0.5
+
+# --- Chorus
+G3:0.5=And G3:0.5=I G3:0.25=was G3:0.25=like Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Bb4:1.5=oh
+G3:0.5=Like Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Ab4:1.5=no
+G3:0.5=Like Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Bb4:1=oh Bb4:0.5=oh
+G3:0.5=I G3:0.5=thought G3:0.5=yu'd F3:1=al F3:0.5=ways Eb4:0.5=be Eb4:1=mine Eb4:1.5=mine
+R:0.5
+
+# --- Chorus ulang (potongan)
+G3:0.5=And G3:0.5=I G3:0.25=was G3:0.25=like Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Bb4:1.5=oh
+G3:0.5=Like Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Eb4:0.5=ba Eb4:0.5=bi Ab4:1.5=no

@@ -1,0 +1,31 @@
+# Simon & Garfunkel - The Sound of Silence (potongan ~60 detik)
+# Bagian terbaik: Verse 1 ("Hello darkness") + Verse 4 ("And the people bowed and prayed")
+# Kunci D minor (1 flat), 4/4, 106 BPM. Ejaan disesuaikan mesin (fonem Indonesia):
+#   my=mai, friend=frend, come=kam, you=yu, again=gen, because=bik-kos,
+#   vision=vi-syen, seeds=sidz, while=wail, brain=brein, sound=saund,
+#   silence=sai-lens, neon=ni-on, made=meid, sign=sain, said=sed,
+#   walls=wols, tenement=te-ne-ment, whispered=wis-perd
+
+tempo 106
+meter 4
+pickup 0
+barreset 1
+
+# --- Verse 1: "Hello darkness, my old friend"
+A4:0.5=Hel A4:0.5=lo C5:0.5=dark C5:0.5=nes A4:1=mai A4:1=old A4:4=frend
+C5:0.5=Aiv Bb4:0.5=kam A4:1=tu Bb4:0.5=tok A4:0.5=with G4:1=yu A4:0.5=a G4:3.5=gen
+A4:0.5=Bik A4:0.5=kos C5:1=a D5:0.5=vi D5:0.5=syen C5:1=soft C5:0.5=li A4:1=kri A4:2.5=ping
+A4:0.5=Left A4:0.5=its C5:1=sidz C5:0.5=wail A4:0.5=ai A4:0.5=woz A4:1=sli A4:3.5=ping
+C5:0.5=And C5:0.5=de D5:0.5=vi D5:0.5=syen C5:0.5=dat C5:0.5=woz A4:0.5=plan A4:0.5=ted A4:0.5=in G4:1=mai A4:2.5=brein
+D4:1=Stil F4:1=ri A4:2=meins
+A4:0.5=Wi A4:0.5=thin G4:1=de F4:1=saund A4:0.5=of G4:0.5=sai F4:3=lens
+R:0.5
+
+# --- Verse 4: "And the people bowed and prayed" (puncak emosi)
+A4:0.5=And A4:0.5=de C5:0.5=pi C5:0.5=pol C5:1=baud A4:1=and A4:3=preid
+C5:0.5=Tu Bb4:0.5=de A4:1=ni Bb4:0.5=on A4:0.5=god G4:1=dei G4:4=meid
+A4:0.5=And A4:0.5=de C5:1=sain D5:0.5=flas D5:0.5=aut C5:1=its C5:0.5=wor A4:2.5=ning
+A4:0.5=In A4:0.5=de C5:1=words C5:0.5=dat A4:0.5=it A4:0.5=woz A4:1=for A4:3.5=ming
+C5:0.5=And C5:0.5=de D5:1=sain C5:0.5=sed C5:0.5=de C5:0.5=words A4:0.5=of A4:0.5=de A4:0.5=pro A4:0.5=fets A4:0.5=ar G4:0.5=ri G4:0.5=ten A4:1=on A4:0.5=de A4:0.5=sab A4:0.5=wei A4:1.5=wols
+D4:1=And F4:1=te F4:0.5=ne F4:0.5=ment A4:1=hols
+A4:0.5=And A4:0.5=wis G4:1=perd F4:1=in A4:0.5=de F4:0.5=saunds A4:0.5=of G4:0.5=sai F4:3=lens
